@@ -22,5 +22,5 @@ the 'Similarity-Implementation' file.
 
 ## Acknowledgements
 
-Thank you to everyone at Data Science UCSB! Please check out the sentence transformer model we used: 
+Thank you to everyone at Data Science UCSB, especially Mehir Arora and Mateo Wang! Please check out the sentence transformer model we used: 
 https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2

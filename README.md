@@ -1,7 +1,7 @@
 # Twitter Twin
 
 Welcome to TwitterTwin! TwitterTwin utilizes sentence transformers and FAISS indexes to match inputted Twitter users to a corresponding
-Twitter celebrity based off of semantic simiarity. Please check out our Hugging Face Space!
+Twitter celebrity based off of semantic similarity. Please check out our Hugging Face Space!
 https://huggingface.co/spaces/olivianuzum/Twitter_Twin 
 
 ## Table of Contents
